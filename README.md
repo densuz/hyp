@@ -1,5 +1,5 @@
 # DENSUS ADMIN TEMPLATE 
-We would like to thank you for purchasing Hyper :). The following guideline will help you to get started with the hyper and its documentation.
+
 
 #### Docs and Examples
 
